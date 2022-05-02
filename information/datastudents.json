@@ -1,0 +1,28 @@
+{
+    "estudiantes":[
+        {
+            "matricula": "18760461",
+            "nombre": "Andrea Denisse Ramírez Aguilar",
+            "carrera": "Ing. Sistemas Computacionales",
+            "semestre": "8vo",
+            "telefono": "(646) 987-65-32",
+            "correo": "al18760461@ite.edu.mx"
+        },
+        {
+            "matricula": "12456789",
+            "nombre": "Denisse Andrea Aguilar Ramírez",
+            "carrera": "Ing. Gestión Empresarial",
+            "semestre": "1ro",
+            "telefono": "(686) 198-63-21",
+            "correo": "al12456789@ite.edu.mx"
+        },
+        {
+            "matricula": "18765421",
+            "nombre": "Kaelyn Dana Acosta Ramos",
+            "carrera": "Ing. Mecatronica",
+            "semestre": "5to",
+            "telefono": "(646) 698-78-15",
+            "correo": "al18765421@ite.edu.mx"
+        }
+    ]
+}
